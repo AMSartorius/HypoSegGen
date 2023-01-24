@@ -2,6 +2,12 @@
 ##### SET UP WORKING ENVIRONMENT #####
 ######################################
 
+
+# upload to Github Repository:
+# Choose "Git" panel in lower right corner, click on "commit", then write commit message and click "Commit", then "Push".
+
+
+
 rm(list = ls()) # delete all objects in the workspace
 gc(reset = T)   # resest memory (especially useful when working with large data sets)
 
